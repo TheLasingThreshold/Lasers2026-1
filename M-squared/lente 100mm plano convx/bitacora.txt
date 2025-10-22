@@ -1,0 +1,5 @@
+inicial en 55 mm, termina en 95 mm.
+con pasos de 0.5mm
+
+55 mm corresponde a image_0
+95 mm corresponde a image_40
