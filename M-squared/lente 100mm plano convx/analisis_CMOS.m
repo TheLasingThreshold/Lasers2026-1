@@ -8,7 +8,7 @@ lambda = 800;
 % Datos de directorio                
 ruta = 'images\';         % Ruta local
 nombre = 'image_';        % Nombre de la foto
-
+    
 % Tamaño de pixel
 X_pixel = 5.3;
 Y_pixel = X_pixel;
